@@ -1,4 +1,6 @@
-## Hi there 👋
+## olá 👋
+sou luiz, apaionado por programação
+![](https://media1.tenor.com/m/f8G3Sf79TykAAAAC/berserk.gif)
 
 <!--
 **Sosags/Sosags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
