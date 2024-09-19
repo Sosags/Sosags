@@ -1,5 +1,7 @@
 ## olá 👋
-sou luiz, apaionado por programação
+sou luiz, gosto muito de programação
+
+pretendo ingressar um dia nesse ramo da tecnologia
 ![](https://media1.tenor.com/m/f8G3Sf79TykAAAAC/berserk.gif)
 
 <!--
